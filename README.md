@@ -1,4 +1,4 @@
-# IRC
+# IRC (Internet Relay Chat)
 
 Internet Relay Chat or IRC is a textual communication protocol on the Internet. It is
 instantaneous communication mainly in the form of discussions in groups via discussion
